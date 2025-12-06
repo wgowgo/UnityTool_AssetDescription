@@ -3,7 +3,7 @@
 
 ### Unity 에셋 및 GameObject에 설명을 추가하여 **Inspector / SceneView Overlay / Console**에서 <br/> 확인할 수 있게 해주는 에디터 확장 도구입니다.  
 ### This Unity Editor extension allows adding descriptions to **any asset or GameObject**, visible in the Inspector, SceneView overlay, and Console.
-![Uploading image.png…]()
+
 
 ---
 
@@ -106,4 +106,7 @@ Assets/<br/>
 - It is recommended to include the Description folder in version control  
 
 ---
+<img width="1097" height="506" alt="image" src="https://github.com/user-attachments/assets/adee5d74-02d5-4807-956e-ba756e0a06d3" />
+<img width="452" height="201" alt="image" src="https://github.com/user-attachments/assets/65ac6535-4a37-48d9-88e8-9de3e934dcaf" />
+<img width="451" height="320" alt="image" src="https://github.com/user-attachments/assets/5da180d4-5d9a-4478-ab2b-3316e8f7f2c6" />
 
