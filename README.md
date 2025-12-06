@@ -1,4 +1,4 @@
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/0fba5cb6-0645-4709-804f-2b5b03412829" /># 📘 Unity Asset Description System
+# 📘 Unity Asset Description System
 ## 🇰🇷 에셋 설명 시스템 · 🇺🇸 Asset Description System
 
 ### Unity 에셋 및 GameObject에 설명을 추가하여 **Inspector / SceneView Overlay / Console**에서 <br/> 확인할 수 있게 해주는 에디터 확장 도구입니다.  
@@ -107,6 +107,8 @@ Assets/<br/>
 
 ---
 <img width="1097" height="506" alt="image" src="https://github.com/user-attachments/assets/adee5d74-02d5-4807-956e-ba756e0a06d3" />
+<br/>
 <img width="452" height="201" alt="image" src="https://github.com/user-attachments/assets/65ac6535-4a37-48d9-88e8-9de3e934dcaf" />
+<br/>
 <img width="451" height="320" alt="image" src="https://github.com/user-attachments/assets/5da180d4-5d9a-4478-ab2b-3316e8f7f2c6" />
 
