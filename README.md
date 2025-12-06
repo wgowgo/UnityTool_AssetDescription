@@ -29,14 +29,16 @@
 ---
 
 # 📂 폴더 구조 · Folder Structure
+
 Assets/
-└── Editor/
-└── AssetDescription/
-├── AssetDescription.cs
-├── AssetDescriptionTool.cs
-├── AssetInspectorDescription.cs
-├── AssetDescriptionOverlay.cs
-├── AssetDescriptionAutoCleaner.cs
+<br/>
+└── Editor/<br/>
+└── AssetDescription/<br/>
+├── AssetDescription.cs<br/>
+├── AssetDescriptionTool.cs<br/>
+├── AssetInspectorDescription.cs<br/>
+├── AssetDescriptionOverlay.cs<br/>
+├── AssetDescriptionAutoCleaner.cs<br/>
 └── Description/ ← 설명 파일 자동 저장
 
 ---
