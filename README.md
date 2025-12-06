@@ -30,16 +30,17 @@
 
 # 📂 폴더 구조 · Folder Structure
 
-Assets/
-<br/>
-└── Editor/<br/>
-└── AssetDescription/<br/>
-├── AssetDescription.cs<br/>
-├── AssetDescriptionTool.cs<br/>
-├── AssetInspectorDescription.cs<br/>
-├── AssetDescriptionOverlay.cs<br/>
-├── AssetDescriptionAutoCleaner.cs<br/>
-└── Description/ ← 설명 파일 자동 저장
+Assets/<br/>
+└── Editor//<br/>
+    └── AssetDescription//<br/>
+        ├── AssetDescription.cs                  ← ScriptableObject 데이터 구조/<br/>
+        ├── AssetDescriptionTool.cs              ← 에셋 설명 에디터 윈도우/<br/>
+        ├── AssetInspectorDescription.cs         ← Inspector UI 확장/<br/>
+        ├── AssetDescriptionOverlay.cs           ← SceneView 오버레이/<br/>
+        ├── AssetDescriptionAutoCleaner.cs       ← 에셋 삭제 시 설명 자동 삭제/<br/>
+        ├── icon.png                             ← (선택) 에디터 아이콘/<br/>
+        └── Description/                         ← 설명 파일 자동 저장 폴더 (자동 생성됨)
+
 
 ---
 
