@@ -31,7 +31,7 @@
 
 #폴더 구조 · Folder Structure
 
-'''
+
 Assets/<br/>
 └── Editor//<br/>
     └── AssetDescription//<br/>
@@ -42,7 +42,7 @@ Assets/<br/>
         ├── AssetDescriptionAutoCleaner.cs       ← 에셋 삭제 시 설명 자동 삭제/<br/>
         ├── icon.png                             ← (선택) 에디터 아이콘/<br/>
         └── Description/                         ← 설명 파일 자동 저장 폴더 (자동 생성됨)
-'''
+
 
 ---
 
